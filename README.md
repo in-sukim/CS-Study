@@ -3,8 +3,8 @@ CS 지식 공부
 
 
 ## 1. 네트워크
-- OSI 7계층 모델
-- TCP/IP 프로토콜
+- [OSI 7계층 모델](https://github.com/in-sukim/CS-Study/blob/main/Network/OSI-7.md)
+- [TCP/IP 프로토콜](https://github.com/in-sukim/CS-Study/blob/main/Network/TCP-IP.md)
 - HTTP와 HTTPS
 - 소켓 프로그래밍 기초
 
